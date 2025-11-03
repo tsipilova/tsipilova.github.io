@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #ffffff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+h1, h2 {
+    margin-bottom: 0.5rem;
+}
+
+section {
+    padding: 2rem 5%;
+    margin: 1rem 0;
+    background: #fff;
+}
+
+#portfolio .project-card {
+    background: #e4e4e4;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #ffffff;
+    font-size: 0.8rem;
+}
